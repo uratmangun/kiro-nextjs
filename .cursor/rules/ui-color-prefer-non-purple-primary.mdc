@@ -1,7 +1,7 @@
 ---
-inclusion: always
+alwaysApply: true
+description: "Prefer non-purple as primary UI color; purple only as accent/secondary unless brand requires it"
 ---
-
 
 # UI Color Palette Preference
 
